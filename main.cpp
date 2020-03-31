@@ -50,102 +50,102 @@ send me a DM to check your pull request
 //  example)
 //  Noun:       arm                     // 1)
 //  action 1:   the arm extends         // 2)
-//arm.extend();                           // 3)
+arm.extend();                           // 3)
 //  action 2:   the arm flexes          // 2)
-//arm.flex();                             // 3)
+arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
-//arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
+arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun: Smartphone
-//  action 1: Smartphone connects to network
-//            smartphone.connectToNetwork();
-//  action 2: Smartphone checks for updates
-//            smartphone.checkForUpdate();
-//  action 3: Smartphone sends user push notification
-//            smartphone.sendPushNotification();
+//  Noun: smartPhone
+//  action 1: smartPhone connects to network
+              smartPhone.connectToNetwork();
+//  action 2: smartPhone checks for updates
+              smartPhone.checkForUpdate();
+//  action 3: smartPhone sends user push notification
+              smartPhone.sendPushNotification();
 
 //  2)
-//  Noun: Dog
-//  action 1: Dog barks
-//            dog.bark();
-//  action 2: Dog sniffs
-//            dog.sniff();
-//  action 3: Dog licks
-//            dog.lick();
+//  Noun: dog
+//  action 1: dog barks
+              dog.bark();
+//  action 2: dog sniffs
+              dog.sniff();
+//  action 3: dog licks
+              dog.lick();
 
 //  3)
-//  Noun: Cat
-//  action 1: Cat meows
-//            cat.meow();
-//  action 2: Cat scratches
-//            cat.scratch();
-//  action 3: Cat hisses
-//            cat.hiss();
+//  Noun: cat
+//  action 1: cat meows
+              cat.meow();
+//  action 2: cat scratches
+              cat.scratch();
+//  action 3: cat hisses
+              cat.hiss();
 
 //  4)
-//  Noun: Space heater 
-//  action 1: Space heater heats room
-//            spaceHeater.heatRoom();
-//  action 2: Space heater checks temperature
-//            spaceHeater.checkTemperature();
-//  action 3: Space heater pauses heating
-//            spaceHeater.pauseHeating();
+//  Noun: spaceHeater 
+//  action 1: spaceHeater heats room
+              spaceHeater.heatRoom();
+//  action 2: spaceHeater checks temperature
+              spaceHeater.checkTemperature();
+//  action 3: spaceHeater pauses heating
+              spaceHeater.pauseHeating();
 
 //  5)
-//  Noun: Bird
-//  action 1: Bird flies
-//            bird.fly();
-//  action 2: Bird chirps
-//            bird.chirp();
-//  action 3: Bird digs for worms
-//            bird.digForWorms();
+//  Noun: bird
+//  action 1: bird flies
+              bird.fly();
+//  action 2: bird chirps
+              bird.chirp();
+//  action 3: bird digs for worms
+              bird.digForWorms();
 
 //  6)
-//  Noun: Audio interface
-//  action 1: Audio interface gets audio from input 1
-//            audioInterface.getInputOneAudio();
-//  action 2: Audio interface gets audio from computer
-//            audioInterface.getComputerAudio();
-//  action 3: Audio interface converts digital data to analog signal
-//            audioInterface.convertDigitalToAnalog();
+//  Noun: audioInterface
+//  action 1: audioInterface gets audio from input 1
+              audioInterface.getInputOneAudio();
+//  action 2: audioInterface gets audio from computer
+              audioInterface.getComputerAudio();
+//  action 3: audioInterface converts digital data to analog signal
+              audioInterface.convertDigitalToAnalog();
  
 //  7)
-//  Noun: Battery Charger
-//  action 1: Battery charger charges battery
-//            batteryCharger.chargeBattery();
-//  action 2: Battery charger checks battery level
-//            batteryCharger.checkLevel();
-//  action 3: Battery charger stops charging
-//            batteryCharger.stopCharging();
+//  Noun: batteryCharger
+//  action 1: batteryCharger charges battery
+              batteryCharger.chargeBattery();
+//  action 2: batteryCharger checks battery level
+              batteryCharger.checkLevel();
+//  action 3: batteryCharger stops charging
+              batteryCharger.stopCharging();
 
 //  8)
-//  Noun: Toaster Oven
-//  action 1: Toaster oven heats food
-//            toasterOven.heatFood();
-//  action 2: Toaster oven decrements timer
-//            toasterOven.decrementTimer();
-//  action 3: Toaster oven stops heating
-//            toasterOven.stopHeating();
+//  Noun: toasterOven
+//  action 1: toasterOven heats food
+              toasterOven.heatFood();
+//  action 2: toasterOven decrements timer
+              toasterOven.decrementTimer();
+//  action 3: toasterOven stops heating
+              toasterOven.stopHeating();
 
 //  9)
-//  Noun: Digital Camera
-//  action 1: Digital camera opens shutter
-//            digitalCamera.openShutter();
-//  action 2: Digital camera saves image
-//            digitalCamera.saveImage();
-//  action 3: Digital camera checks light levels
-//            digitalCamera.checkLightLevels();
+//  Noun: digitalCamera
+//  action 1: digitalCamera opens shutter
+              digitalCamera.openShutter();
+//  action 2: digitalCamera saves image
+              digitalCamera.saveImage();
+//  action 3: digitalCamera checks light levels
+              digitalCamera.checkLightLevels();
 
 //  10)
-//  Noun: Photography Strobe
-//  action 1: Photography strobe charges next flash
-//            photographyStrobe.chargeFlash();
-//  action 2: Photography strobe fires flash
-//            photographyStrobe.fireFlash();
-//  action 3: Photography strobe blows fuse
-//            photographyStrobe.blowFuse();
+//  Noun: photographyStrobe
+//  action 1: photographyStrobe charges next flash
+              photographyStrobe.chargeFlash();
+//  action 2: photographyStrobe fires flash
+              photographyStrobe.fireFlash();
+//  action 3: photographyStrobe blows fuse
+              photographyStrobe.blowFuse();
 
 
 #endif
