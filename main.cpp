@@ -11,7 +11,7 @@ Purpose:  This project will get you thinking correctly about choosing good names
  1) write out 10 nouns in the space provided below.
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
-    e
+    
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -58,85 +58,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: smartPhone
+//  action 1: smartPhone connects to network
+              smartPhone.connectToNetwork();
+//  action 2: smartPhone checks for updates
+              smartPhone.checkForUpdate();
+//  action 3: smartPhone sends user push notification
+              smartPhone.sendPushNotification();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: dog barks
+              dog.bark();
+//  action 2: dog sniffs
+              dog.sniff();
+//  action 3: dog licks
+              dog.lick();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: cat meows
+              cat.meow();
+//  action 2: cat scratches
+              cat.scratch();
+//  action 3: cat hisses
+              cat.hiss();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: spaceHeater 
+//  action 1: spaceHeater heats room
+              spaceHeater.heatRoom();
+//  action 2: spaceHeater checks temperature
+              spaceHeater.checkTemperature();
+//  action 3: spaceHeater pauses heating
+              spaceHeater.pauseHeating();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: bird
+//  action 1: bird flies
+              bird.fly();
+//  action 2: bird chirps
+              bird.chirp();
+//  action 3: bird digs for worms
+              bird.digForWorms();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: audioInterface
+//  action 1: audioInterface gets audio from input 1
+              audioInterface.getInputOneAudio();
+//  action 2: audioInterface gets audio from computer
+              audioInterface.getComputerAudio();
+//  action 3: audioInterface converts digital data to analog signal
+              audioInterface.convertDigitalToAnalog();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: batteryCharger
+//  action 1: batteryCharger charges battery
+              batteryCharger.chargeBattery();
+//  action 2: batteryCharger checks battery level
+              batteryCharger.checkLevel();
+//  action 3: batteryCharger stops charging
+              batteryCharger.stopCharging();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: toasterOven
+//  action 1: toasterOven heats food
+              toasterOven.heatFood();
+//  action 2: toasterOven decrements timer
+              toasterOven.decrementTimer();
+//  action 3: toasterOven stops heating
+              toasterOven.stopHeating();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: digitalCamera
+//  action 1: digitalCamera opens shutter
+              digitalCamera.openShutter();
+//  action 2: digitalCamera saves image
+              digitalCamera.saveImage();
+//  action 3: digitalCamera checks light levels
+              digitalCamera.checkLightLevels();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: photographyStrobe
+//  action 1: photographyStrobe charges next flash
+              photographyStrobe.chargeFlash();
+//  action 2: photographyStrobe fires flash
+              photographyStrobe.fireFlash();
+//  action 3: photographyStrobe blows fuse
+              photographyStrobe.blowFuse();
 
 
 #endif
